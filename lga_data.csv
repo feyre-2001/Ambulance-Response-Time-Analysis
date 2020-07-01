@@ -1,0 +1,80 @@
+LGA,MetropolitanRural,Departmental_region,Area_of_LGA_sq_km,Travel_time_from_Melbourne_mins,Remoteness_category,Population,Number_of_hospitals,Number_of_public_hospitals,Number_of_private_hospitals,Ppl_who_live_near_public_transport_percent,Median_household_income_aud,Hosp_admiss_per_1000_pop
+Alpine (S),Rural,Hume,4787,201,Outer Regional Australia,12044,3,3,0,3,829,414.4
+Ararat (RC),Rural,Grampians,4210,143,Outer Regional Australia,11207,2,2,0,48.3,844,462.5
+Ballarat (C),Rural,Grampians,739,76,Inner Regional Australia,98684,5,2,3,67.4,988,476.2
+Banyule (C),Metropolitan,Northern Metropolitan,63,25,Major Cities of Australia,124475,8,3,5,90.4,1394,442.3
+Bass Coast (S),Rural,Gippsland,865,111,Inner Regional Australia,31010,1,1,0,36.7,855,482.5
+Baw Baw (S),Rural,Gippsland,4031,74,Inner Regional Australia,45205,2,1,1,20.9,1025,394.1
+Bayside (C),Metropolitan,Southern Metropolitan,37,15,Major Cities of Australia,98368,7,2,5,96.6,1826,513.2
+Benalla (RC),Rural,Hume,2352,136,Inner Regional Australia,13719,1,1,0,41.2,827,518.9
+Boroondara (C),Metropolitan,Eastern Metropolitan,60,13,Major Cities of Australia,170553,15,4,11,100,1893,413.8
+Brimbank (C),Metropolitan,Western Metropolitan,123,19,Major Cities of Australia,195469,5,1,4,84,1106,413.8
+Buloke (S),Rural,Loddon Mallee,8001,205,Outer Regional Australia,6221,5,5,0,7.1,742,562.8
+Campaspe (S),Rural,Loddon Mallee,4518,178,Inner Regional Australia,36919,4,4,0,23.2,886,519.5
+Cardinia (S),Metropolitan,Southern Metropolitan,1282,45,Inner Regional Australia,84065,1,1,0,43.3,1303,455.8
+Casey (C),Metropolitan,Southern Metropolitan,409,36,Major Cities of Australia,275116,8,2,6,62.4,1342,443.8
+Central Goldfields (S),Rural,Loddon Mallee,1532,124,Inner Regional Australia,12602,2,2,0,45.4,685,644.8
+Colac-Otway (S),Rural,Barwon-South Western,3439,116,Inner Regional Australia,20694,2,2,0,41.2,914,427.4
+Corangamite (S),Rural,Barwon-South Western,4408,153,Outer Regional Australia,16137,5,4,1,8.9,909,481.6
+Darebin (C),Metropolitan,Northern Metropolitan,53,17,Major Cities of Australia,146797,4,1,3,99.7,1178,440.8
+East Gippsland (S),Rural,Gippsland,20937,211,Outer Regional Australia,43413,3,3,0,19.7,798,586
+Frankston (C),Metropolitan,Southern Metropolitan,130,40,Major Cities of Australia,133560,9,2,7,72.8,1140,495.7
+Gannawarra (S),Rural,Loddon Mallee,3736,206,Outer Regional Australia,10326,2,2,0,9.3,764,575.7
+Glen Eira (C),Metropolitan,Southern Metropolitan,39,21,Major Cities of Australia,141519,12,3,9,100,1445,465.6
+Glenelg (S),Rural,Barwon-South Western,6218,298,Outer Regional Australia,19521,3,3,0,33.1,899,440.7
+Golden Plains (S),Rural,Grampians,2703,64,Inner Regional Australia,20151,0,0,0,2.4,1217,387
+Greater Bendigo (C),Rural,Loddon Mallee,2999,92,Inner Regional Australia,105332,5,3,2,57.8,991,470.7
+Greater Dandenong (C),Metropolitan,Southern Metropolitan,130,28,Major Cities of Australia,146727,10,2,8,94,953,470.5
+Greater Geelong (C),Rural,Barwon-South Western,1248,58,Inner Regional Australia,221515,7,2,5,76.9,1049,453.3
+Greater Shepparton (C),Rural,Hume,2421,127,Inner Regional Australia,62784,3,2,1,54.1,980,453.6
+Hepburn (S),Rural,Grampians,1473,78,Inner Regional Australia,14843,2,2,0,11.3,850,449.1
+Hindmarsh (S),Rural,Grampians,7524,285,Outer Regional Australia,5695,4,4,0,20.6,785,669.9
+Hobsons Bay (C),Metropolitan,Western Metropolitan,64,21,Major Cities of Australia,89111,2,1,1,87.7,1286,430.9
+Horsham (RC),Rural,Grampians,4266,223,Outer Regional Australia,19687,1,1,0,55.4,946,511.6
+Hume (C),Metropolitan,Northern Metropolitan,504,33,Major Cities of Australia,183263,4,3,1,75.3,1214,400.4
+Indigo (S),Rural,Hume,2040,196,Inner Regional Australia,15372,1,1,0,7.1,1066,295.9
+Kingston (C),Metropolitan,Southern Metropolitan,91,22,Major Cities of Australia,151686,3,1,2,97.8,1292,467.5
+Knox (C),Metropolitan,Eastern Metropolitan,114,26,Major Cities of Australia,154909,6,2,4,91.8,1401,471.5
+Latrobe (C),Rural,Gippsland,1426,110,Inner Regional Australia,73846,2,1,1,63.5,942,509.9
+Loddon (S),Rural,Loddon Mallee,6695,194,Outer Regional Australia,7443,2,2,0,8,686,560.2
+Macedon Ranges (S),Rural,Loddon Mallee,1748,38,Inner Regional Australia,44098,1,1,0,14.3,1395,387.3
+Manningham (C),Metropolitan,Eastern Metropolitan,113,20,Major Cities of Australia,117537,2,0,2,88.7,1467,483.3
+Mansfield (S),Rural,Hume,3843,158,Outer Regional Australia,8185,1,1,0,3,891,476
+Maribyrnong (C),Metropolitan,Western Metropolitan,31,10,Major Cities of Australia,79302,8,4,4,96.9,1257,370.9
+Maroondah (C),Metropolitan,Eastern Metropolitan,61,29,Major Cities of Australia,109575,5,1,4,92.5,1308,466.8
+Melbourne (C),Metropolitan,Western Metropolitan,37,3,Major Cities of Australia,116447,23,8,15,99.2,1352,257.6
+Melton (C),Metropolitan,Western Metropolitan,527,35,Inner Regional Australia,122909,1,1,0,71.4,1363,389.5
+Mildura (RC),Rural,Loddon Mallee,22107,386,Outer Regional Australia,52685,3,2,1,52.7,878,446.7
+Mitchell (S),Rural,Hume,2862,46,Inner Regional Australia,37366,2,2,0,28,1170,408
+Moira (S),Rural,Hume,4046,217,Inner Regional Australia,28675,4,4,0,23.5,828,460
+Monash (C),Metropolitan,Eastern Metropolitan,81,22,Major Cities of Australia,182485,11,1,10,99.6,1321,462.8
+Moonee Valley (C),Metropolitan,Western Metropolitan,43,12,Major Cities of Australia,115097,3,0,3,95.7,1377,438
+Moorabool (S),Rural,Grampians,2110,41,Inner Regional Australia,30320,2,1,1,27.5,1183,409.8
+Moreland (C),Metropolitan,Northern Metropolitan,51,10,Major Cities of Australia,160029,5,0,5,99,1215,425
+Mornington Peninsula (S),Metropolitan,Southern Metropolitan,724,52,Major Cities of Australia,152260,6,2,4,46.1,1054,557.1
+Mount Alexander (S),Rural,Loddon Mallee,1529,82,Inner Regional Australia,17994,2,2,0,24.8,838,439.3
+Moyne (S),Rural,Barwon-South Western,5482,230,Outer Regional Australia,16277,1,1,0,8.5,1040,426
+Murrindindi (S),Rural,Hume,3878,118,Inner Regional Australia,13494,2,2,0,5.9,917,445.3
+Nillumbik (S),Metropolitan,Northern Metropolitan,432,27,Inner Regional Australia,62724,0,0,0,50.3,1872,337.7
+Northern Grampians (S),Rural,Grampians,5726,172,Outer Regional Australia,11799,2,2,0,39.2,815,514.7
+Port Phillip (C),Metropolitan,Southern Metropolitan,21,8,Major Cities of Australia,102501,4,0,4,98.1,1672,388.6
+Pyrenees (S),Rural,Grampians,3434,106,Inner Regional Australia,6770,1,1,0,7.5,732,510.4
+Queenscliffe (B),Rural,Barwon-South Western,9,86,Inner Regional Australia,3058,0,0,0,66.9,1022,666.3
+South Gippsland (S),Rural,Gippsland,3299,108,Inner Regional Australia,27930,3,3,0,8.5,920,473.5
+Southern Grampians (S),Rural,Barwon-South Western,6654,229,Outer Regional Australia,16145,3,3,0,40.9,908,466
+Stonnington (C),Metropolitan,Southern Metropolitan,26,14,Major Cities of Australia,103187,10,0,10,100,1722,405.2
+Strathbogie (S),Rural,Hume,3302,104,Inner Regional Australia,9706,2,0,2,12.2,843,531.3
+Surf Coast (S),Rural,Barwon-South Western,1553,75,Inner Regional Australia,28282,2,2,0,33.2,1277,364.2
+Swan Hill (RC),Rural,Loddon Mallee,6120,256,Outer Regional Australia,20867,4,4,0,38.4,886,557.5
+Towong (S),Rural,Hume,6674,304,Outer Regional Australia,5889,2,2,0,5.3,850,282.4
+Wangaratta (RC),Rural,Hume,3644,161,Inner Regional Australia,27197,2,1,1,47,913,498.9
+Warrnambool (C),Rural,Barwon-South Western,121,210,Inner Regional Australia,33300,2,1,1,72.8,1025,450.3
+Wellington (S),Rural,Gippsland,10817,154,Outer Regional Australia,42319,4,3,1,26.6,905,491.3
+West Wimmera (S),Rural,Grampians,9106,318,Outer Regional Australia,4089,2,2,0,8.6,815,464.6
+Whitehorse (C),Metropolitan,Eastern Metropolitan,64,22,Major Cities of Australia,161724,7,2,5,100,1317,507.1
+Whittlesea (C),Metropolitan,Northern Metropolitan,490,28,Inner Regional Australia,179261,4,1,3,75.6,1275,452.1
+Wodonga (RC),Rural,Hume,433,325,Inner Regional Australia,37345,3,1,2,53.5,1075,250.5
+Wyndham (C),Metropolitan,Western Metropolitan,542,25,Inner Regional Australia,189618,4,1,3,65,1424,334.6
+Yarra (C),Metropolitan,Northern Metropolitan,20,6,Major Cities of Australia,83593,4,1,3,100,1680,361.3
+Yarra Ranges (S),Metropolitan,Eastern Metropolitan,2465,33,Inner Regional Australia,149538,2,2,0,55.9,1281,444
+Yarriambiack (S),Rural,Grampians,7326,255,Outer Regional Australia,7018,3,3,0,7.6,773,557.3
